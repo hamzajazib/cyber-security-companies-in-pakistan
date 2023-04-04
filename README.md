@@ -81,6 +81,8 @@ This github repository is meant to act as a guideline or reference point for stu
 
 <li>Fauji Fertilizer Bin Qasim Ltd</li>
 
+<li>Wateen Telecom</li>
+
 </ul>
 
 <h2>How to Contribute</h2>
